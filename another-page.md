@@ -7,6 +7,7 @@ layout: default
 Do you need to print a pdf but you run out of a black ink in your printer? Don't worry, you can change a pfd's font with few steps.
 
 ### Downloading and Installing GIMP2
+
 GIMP is an acronym for GNU Image Manipulation Program. It is a free program, which you can use for image editing. For more information, see [https://www.gimp.org/about/](https://www.gimp.org/about/).
 
 You can skip this section if you have GIMP already installed.
@@ -15,13 +16,26 @@ You can skip this section if you have GIMP already installed.
 2. To install GIMP, follow the instructions from the gimp.org website.
 
 ### Changing pdf's Color
+
 1. Open GIMP2.
 2. Navigate to File -> Open.
 3. Select a file you want to edit. <br/>
 An _Import from PDF_ dialog opens.
 4. Select the pages that you want to edit and import the pdf.
-5. On the left hand side, select a foreground color.
-6. 
+5. On the left hand side, select a foreground color, you want to use.
+6. On the right hand side, right-click on the _Layers_ area.
+7. Select _New Layer..._ <br/>
+A _New Layer_ dialog opens.
+8. Select _Foreground color_ for the _Fill with_ field. <br/>
+The whole doc is covered with the created layer.
+9. Highlight the Layer and change the Mode of the layer to _Lighten only_. <br/>
+The font's color is changed.
+
+### Printing the pdf
+
+Go to File-> Print.
+
+
 
 
 [back](./)
