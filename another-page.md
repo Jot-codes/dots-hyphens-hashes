@@ -17,7 +17,7 @@ You can skip this section if you have GIMP already installed.
 ### Changing pdf's Color
 1. Open GIMP2.
 2. Navigate to File -> Open.
-3. Select a file you want to edit.
+3. Select a file you want to edit. <br/>
 An _Import from PDF_ dialog opens.
 4. Select the pages that you want to edit and import the pdf.
 5. On the left hand side, select a foreground color.
