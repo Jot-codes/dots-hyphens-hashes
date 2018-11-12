@@ -11,7 +11,7 @@ GIMP is an acronym for GNU Image Manipulation Program. It is a free program, whi
 
 You can skip this section if you have GIMP already installed.
 
-1. Go to https://www.gimp.org/downloads/ and download GIMP2. 
+1. Go to /.https://www.gimp.org/downloads/ and download GIMP2. 
 2. To install GIMP, follow the instructions from the gimp.org website.
 
 ### Changing pdf's Color
