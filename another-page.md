@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Changing pdf's Font Color with GIMP2
+# Changing pdf's Font Color with GIMP2
 
 Do you need to print a pdf but you run out of a black ink in your printer? Don't worry, you can change a pfd's font with few steps.
 
@@ -36,6 +36,6 @@ The font's color is changed.
 Go to File-> Print and print the file.
 
 
-
+The tip soure: (https://www.download.net.pl/jak-zmienic-kolory-dokumentu-pdf-do-wydruku/n/8050/)
 
 [back](./)
