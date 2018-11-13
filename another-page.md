@@ -21,7 +21,8 @@ You can skip this section if you have GIMP already installed.
 1. Navigate to File -> Open.
 1. Select a file you want to edit. <br/>
 An _Import from PDF_ dialog opens.
-1. Select the pages that you want to edit and import the pdf.
+1. If your pdf contains more than 1 page, you can select the pages that you want to edit.
+1. Import the pdf.
 1. On the left hand side, select a foreground color, you want to use.
 1. On the right hand side, right-click on the _Layers_ area.
 1. Select _New Layer..._ <br/>
