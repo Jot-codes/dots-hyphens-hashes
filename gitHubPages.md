@@ -2,9 +2,18 @@
 layout: default
 ---
 
-# Creating Git Hub Pages for Dummies
+# Creating GitHub Pages for Dummies
 
-[THIS IS TEMPORARY CONTENT AND WILL BE DELETED SOON Do you need to print a pdf but you run out of a black ink in your printer? Don't worry, you can change a pfd's font with few steps.
+You would like to have a web page and you want to set it by yourself but you don't know where to start with. This tutorial presents how to create a simple web page based on free templates. You can store and maintain your web page for free on GitHub Pages.
+
+## Prerequisites
+Make sure that you have an account on GitHub, GitBash installed. If you don't know 
+### Creating an Account on GitHub
+To work with GitHub you need to create an account on GitHub.
+Go to [https://github.com/](https://github.com/), click _Sign_ _in_ button and provide all required data.
+
+## 
+
 
 ### Downloading and Installing GIMP2
 
