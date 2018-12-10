@@ -7,13 +7,18 @@ layout: default
 You would like to have a web page and you want to set it by yourself but you don't know where to start with. This tutorial presents how to create a simple web page based on free templates. You can store and maintain your web page for free on GitHub Pages.
 
 ## Prerequisites
-Make sure that you have an account on GitHub, GitBash installed. If you don't know 
+Make sure that you have an account on GitHub, GitBash installed. If you don't know how to do this, check next sections.
+
 ### Creating an Account on GitHub
 To work with GitHub you need to create an account on GitHub.
 Go to [https://github.com/](https://github.com/), click _Sign_ _in_ button and provide all required data.
 
-## 
+### Downloading Git
+To make your Gitub pages run and to maintain them, you need a tool called Git. Navigate to [https://git-scm.com/downloads](https://git-scm.com/downloads) to download and install the tool.
 
+### Choosing a Template
+Since you don't create the whole web page from scratch, you need to choose a template, which you want to use. Choose one from listed here: [https://pages.github.com/themes/] (https://pages.github.com/themes/).
+Just choose the design you like. You don't have to do anything more, yet ;)
 
 ### Downloading and Installing GIMP2
 
