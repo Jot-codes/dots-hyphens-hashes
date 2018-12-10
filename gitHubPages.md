@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# New page
+# Creating Git Hub Pages for Dummies
 
-Do you need to print a pdf but you run out of a black ink in your printer? Don't worry, you can change a pfd's font with few steps.
+[THIS IS TEMPORARY CONTENT AND WILL BE DELETED SOON Do you need to print a pdf but you run out of a black ink in your printer? Don't worry, you can change a pfd's font with few steps.
 
 ### Downloading and Installing GIMP2
 
@@ -37,6 +37,6 @@ The font's color is changed.
 Go to File-> Print and print the file.
 
 
-The tip soure: (https://www.download.net.pl/jak-zmienic-kolory-dokumentu-pdf-do-wydruku/n/8050/)
+The tip soure: (https://www.download.net.pl/jak-zmienic-kolory-dokumentu-pdf-do-wydruku/n/8050/)]
 
 [back](./)
