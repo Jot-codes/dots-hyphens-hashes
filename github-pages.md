@@ -17,17 +17,11 @@ Go to [https://github.com/](https://github.com/), click _Sign_ _in_ button and p
 To make your Gitub pages run and to maintain them, you need a tool called Git. Navigate to [https://git-scm.com/downloads](https://git-scm.com/downloads) to download and install the tool.
 
 ### Choosing a Template
-Since you don't create the whole web page from scratch, you need to choose a template, which you want to use. Choose one from listed here: [https://pages.github.com/themes/] (https://pages.github.com/themes/).
+Since you don't create the whole web page from scratch, you need to choose a template, which you want to use. Choose one from listed here: [https://pages.github.com/themes] (https://pages.github.com/themes).
 Just choose the design you like. You don't have to do anything more, yet ;)
 
-### Downloading and Installing GIMP2
+## Placing the Template on Your GitHub
 
-GIMP is an acronym for GNU Image Manipulation Program. It is a free program, which you can use for image editing. For more information, see [https://www.gimp.org/about/](https://www.gimp.org/about/).
-
-You can skip this section if you have GIMP already installed.
-
-1. Go to [https://www.gimp.org/downloads/](https://www.gimp.org/downloads/) and download GIMP2. 
-1. To install GIMP, follow the instructions from the gimp.org website.
 
 ### Changing pdf's Color
 
