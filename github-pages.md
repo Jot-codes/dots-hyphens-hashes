@@ -23,22 +23,21 @@ Just choose the design you like. You don't have to do anything more, yet ;)
 ## Placing the Template on Your GitHub
 
 
-### Changing pdf's Color
+### Downloading the Template to Your Local Machine
 
-1. Open GIMP2.
-1. Navigate to File -> Open.
-1. Select a file you want to edit. <br/>
-An _Import from PDF_ dialog opens.
-1. If your pdf contains more than 1 page, you can select the pages that you want to edit.
-1. Import the pdf.
-1. On the left hand side, select a foreground color, you want to use.
-1. On the right hand side, right-click on the _Layers_ area.
-1. Select _New Layer..._ <br/>
-A _New Layer_ dialog opens.
-1. Set _Foreground color_ for the _Fill with_ field. <br/>
-The whole doc is covered with the created layer.
-1. Highlight the Layer and change the Mode of the layer to _Lighten only_. <br/>
-The font's color is changed.
+1. On your local machine, navigate to a directory, where you want to keep the Template.
+1.Open the Template page on repository on GitHub.
+1. Click _Clone_ _or_ _Download_ button and copy a URL.
+1. Open GitBash in the directory, where you want to keep the Template.
+1. Run
+```
+git clone _URL_ _to_ _your_ _template_
+```
+for example:
+```
+git clone https://github.com/pages-themes/cayman.git
+```
+
 
 ### Printing the pdf
 
