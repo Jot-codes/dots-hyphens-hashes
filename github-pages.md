@@ -68,6 +68,7 @@ Aenean in odio turpis. Fusce auctor sapien arcu, id consequat tortor malesuada n
 
 ### Uploading Your Page to Your Repository on GitHub
 
+1. On you GitHub account 
 1. In GitBash window, run 
 ---
 layout: default
