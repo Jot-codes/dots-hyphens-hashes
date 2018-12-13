@@ -7,29 +7,28 @@ layout: default
 You would like to have a web page and you want to set it by yourself but you don't know where to start with. This tutorial presents how to create a simple web page based on free templates. You can store and maintain your web page for free on GitHub Pages.
 
 ## Prerequisites
-Make sure that you have an account on GitHub, GitBash installed. If you don't know how to do this, check next sections.
+Make sure that you have an account on GitHub and Git installed. If you don't and you don't know how to do this, check the next sections.
 
 ### Creating an Account on GitHub
-To work with GitHub you need to create an account on GitHub.
+To create a repository on GitHub you need to create an account on GitHub.
 Go to [https://github.com/](https://github.com/), click _Sign_ _in_ button and provide all required data.
 
 ### Downloading Git
-To make your GitHub pages run and to maintain them, you need a tool called Git. Navigate to [https://git-scm.com/downloads](https://git-scm.com/downloads) to download and install the tool.
+To manage your GitHub pages and to maintain them, you need a tool called Git. Navigate to [https://git-scm.com/downloads](https://git-scm.com/downloads) to download and install the tool.
 
 ### Choosing a Template
 Since you don't create the whole web page from scratch, you need to choose a template, which you want to use. Choose one from listed here: [https://pages.github.com/themes] (https://pages.github.com/themes).
 Just choose the design you like. You don't have to do anything more, yet ;)
 
-## Placing the Template on Your GitHub
-
+## Placing the Template on Your GitHub Repository
 
 ### Downloading the Template to Your Local Machine
 
-1. On your local machine, navigate to a directory, where you want to keep the Template.
-1.Open the Template page on repository on GitHub.
-1. Click _Clone_ _or_ _Download_ button and copy a URL.
-1. Open GitBash in the directory, where you want to keep the Template.
-1. Run
+1. Open the Template page of your choose on GitHub.
+2. Click _Clone_ _or_ _Download_ button and copy a URL.
+3. Open GitBash in the directory, where you want to keep the Template.
+On Windows machines: Right click inside the folder -> Git Bash Here
+4. Run
   ```
   git clone URL_to_your_template
   ```
@@ -38,20 +37,20 @@ for example:
   git clone https://github.com/pages-themes/cayman.git
   ```
 Your template is available for your needs locally.
-1. Do not close the GitBash window.
+5. Do not close the GitBash terminal window.
 
 ### Personalizing Your Main Page
 The main page is a place where you want to welcome your visitors and put and information about the page. The main page content is stored in the _index.md_ file.
-1. On your local machine, edit the _index.md_ file.
-1. Copy a content of the file to any new _.txt_ file.
-As you can see, the _index.md_ file provides information about page formatting and that's something that you will need to format your pages.
-1. Go to _index.md_ and delete all the content below:
+1. On your local machine, edit the _index.md_ file with the text editor of your choose.
+2. Copy a content of the file to any new _.txt_ file.
+As you can see, the _index.md_ file provides information about page formatting and that's something that you will need to format your future pages.
+3. Go to _index.md_ and delete all the content below:
 ```
 ---
 layout: default
 ---
 ```
-1. Place your content. For example:
+4. Place your content. For example:
 
 ***
 ```
@@ -64,30 +63,34 @@ Praesent volutpat leo cursus lacus tempus, ut sagittis nisi ullamcorper. Cras el
 Aenean in odio turpis. Fusce auctor sapien arcu, id consequat tortor malesuada nec. Mauris finibus urna eu neque sagittis consectetur. Aliquam iaculis accumsan semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed rhoncus commodo lorem, id elementum sem ullamcorper eget. Praesent magna massa, tincidunt id ante quis, tincidunt sagittis velit.
 ```
 ***
-1. Save the file.
+5. Save the file.
 
 ### Uploading Your Page to Your Repository on GitHub
-
-1. On you GitHub account 
-1. In GitBash window, run 
+Copy the changes made locally to remote repository.
+1. On GitHub page, click + button next to your profile's icon and select _New_ _repository_.
+2. In _Repository name_ field, provide the name of your repository.
+For example: cayman.
+Your repository is created. In _Quick setup — if you’ve done this kind of thing before_ section, you can find URL to your just created repository, reffered as <url> in next steps.
+3. Switch to GitBash terminal.
+4. Run 
 ```
 git add index.md
 ```
 to add the _index.md_ file contents to the index.
-1. Next, run
+5. Next, run
 ```
 git commit -m "your comment"
 ```
 to record changes to the repository with a comment what was changed.
-1. Add your remote repository for the repository at <url>
+6. Add your remote repository for the repository at <url>
 ```
 git remote add name_of_your_repository <url>
 ```
-  for example:
+for example:
 ```
 git remote cayman https://github.com/Justyna1Adam/cayman.git
 ```
-1. Push local updates to your remote repository:
+7. Push local updates to your remote repository:
  ```
  git push -u name_of_your_remote_repository master
 ```
@@ -96,14 +99,14 @@ for example:
  git push -u cayman master
 ```
 Your page is updated.
-## Viewieng Your Page
+## Viewing Your Page
 1. On Git Hub page, go to your repository.
-1. Select _Settings_ tab.
-1. In GitHub Pages section, select _master_ _branch_ for Source and save changes.
-  You get the following information:
+2. Select _Settings_ tab.
+3. In GitHub Pages section, select _master branch_ for Source and save changes.
+  You get the following information above the GitHub Pages section:
   ```
   Your site is ready to be published at <url_to_your_page>.
   ```
-1. Click the URL and enjoy your first page on GitHub Pages.
+4. Click the URL and enjoy your first page on GitHub Pages.
 
 [back](./)
