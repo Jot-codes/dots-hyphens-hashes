@@ -70,13 +70,30 @@ Aenean in odio turpis. Fusce auctor sapien arcu, id consequat tortor malesuada n
 
 1. On you GitHub account 
 1. In GitBash window, run 
----
-layout: default
----
 ```
-1.
-1.
-
-
-
+git add index.md
+```
+to add the _index.md_ file contents to the index.
+1. Next, run
+```
+git commit -m "your comment"
+```
+to record changes to the repository with a comment what was changed.
+1. Add your remote repository for the repository at <url>
+```
+git remote add name_of_your_repository <url>
+```
+  for example:
+```
+git remote cayman https://github.com/Justyna1Adam/cayman.git
+```
+1. Push local updates to your remote repository:
+ ```
+ git push -u name_of_your_remote_repository master
+```
+for example:
+ ```
+ git push -u cayman master
+```
+Your page contains 
 [back](./)
