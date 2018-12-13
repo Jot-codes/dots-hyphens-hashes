@@ -78,7 +78,7 @@ Copy the changes made locally to remote repository.
 1. On GitHub page, click + button next to your profile's icon and select _New_ _repository_.
 2. In _Repository name_ field, provide the name of your repository.
 For example: cayman.
-Your repository is created. In _Quick setup — if you’ve done this kind of thing before_ section, you can find URL to your just created repository, referred as <url> in next steps.
+Your repository is created. In _Quick setup — if you’ve done this kind of thing before_ section, you can find URL to your just created repository, referred as "url" in next steps.
 3. Switch to GitBash terminal.
 4. Run 
 ```
@@ -92,9 +92,9 @@ git commit -m "your comment"
 ```
 to record changes to the repository with a comment what was changed.
 
-6. Add your remote repository for the repository at <url>
+6. Add your remote repository for the repository at "url"
 ```
-git remote add name_of_your_repository <url>
+git remote add name_of_your_repository "url"
 ```
 for example:
 ```
@@ -115,7 +115,7 @@ Your page is updated.
 3. In GitHub Pages section, select _master branch_ for Source and save changes.
   You get the following information above the GitHub Pages section:
   ```
-  Your site is ready to be published at <url_to_your_page>.
+  Your site is ready to be published at "url_to_your_page".
   ```
 4. Click the URL and enjoy your first page on GitHub Pages.
 INFO: It might take up to 10 minutes before the page is available.
