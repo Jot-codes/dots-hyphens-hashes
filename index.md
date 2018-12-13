@@ -59,7 +59,6 @@ layout: default
 ---
 ```
 4. Place your content. For example:
-
 ```
 # Welcome to My Place!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse orci nulla, pellentesque vel posuere ac, maximus vitae orci. Morbi congue eu felis feugiat sodales. Sed rhoncus rutrum nibh. Proin sagittis nulla a euismod lacinia. Mauris porta rhoncus semper. Donec tortor erat, luctus ut ornare quis, varius nec justo. Sed non porta odio, quis tincidunt ligula. Nullam semper vitae augue et varius. Quisque sapien lorem, tristique eu diam vel, varius dapibus massa.
