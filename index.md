@@ -60,7 +60,6 @@ layout: default
 ```
 4. Place your content. For example:
 
-***
 ```
 # Welcome to My Place!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse orci nulla, pellentesque vel posuere ac, maximus vitae orci. Morbi congue eu felis feugiat sodales. Sed rhoncus rutrum nibh. Proin sagittis nulla a euismod lacinia. Mauris porta rhoncus semper. Donec tortor erat, luctus ut ornare quis, varius nec justo. Sed non porta odio, quis tincidunt ligula. Nullam semper vitae augue et varius. Quisque sapien lorem, tristique eu diam vel, varius dapibus massa.
@@ -70,8 +69,6 @@ Praesent volutpat leo cursus lacus tempus, ut sagittis nisi ullamcorper. Cras el
 ## What Is this Site About?
 Aenean in odio turpis. Fusce auctor sapien arcu, id consequat tortor malesuada nec. Mauris finibus urna eu neque sagittis consectetur. Aliquam iaculis accumsan semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed rhoncus commodo lorem, id elementum sem ullamcorper eget. Praesent magna massa, tincidunt id ante quis, tincidunt sagittis velit.
 ```
-***
-
 5. Save the file.
 
 ### Uploading Your Page to Your Repository on GitHub
