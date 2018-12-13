@@ -70,7 +70,7 @@ Copy the changes made locally to remote repository.
 1. On GitHub page, click + button next to your profile's icon and select _New_ _repository_.
 2. In _Repository name_ field, provide the name of your repository.
 For example: cayman.
-Your repository is created. In _Quick setup — if you’ve done this kind of thing before_ section, you can find URL to your just created repository, reffered as <url> in next steps.
+Your repository is created. In _Quick setup — if you’ve done this kind of thing before_ section, you can find URL to your just created repository, referred as <url> in next steps.
 3. Switch to GitBash terminal.
 4. Run 
 ```
