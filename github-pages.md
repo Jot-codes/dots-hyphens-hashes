@@ -37,8 +37,15 @@ for example:
   git clone https://github.com/pages-themes/cayman.git
   ```
 Your template is available for your needs locally.
-
-5. Do not close the GitBash terminal window.
+5. Navigate to the main folder of your cloned repository.
+  ```
+  cd name_of_the_folder
+  ```  
+  for example:
+  ```
+  cd cayman
+  ```
+6. Do not close the GitBash terminal window.
 
 ### Personalizing Your Main Page
 The main page is a place where you want to welcome your visitors and put and information about the page. The main page content is stored in the _index.md_ file.
