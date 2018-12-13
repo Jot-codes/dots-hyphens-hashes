@@ -59,6 +59,7 @@ layout: default
 ---
 ```
 4. Place your content. For example:
+
 ***
 ```
 # Welcome to My Place!
