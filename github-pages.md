@@ -37,6 +37,7 @@ for example:
   git clone https://github.com/pages-themes/cayman.git
   ```
 Your template is available for your needs locally.
+
 5. Do not close the GitBash terminal window.
 
 ### Personalizing Your Main Page
@@ -77,11 +78,13 @@ Your repository is created. In _Quick setup — if you’ve done this kind of th
 git add index.md
 ```
 to add the _index.md_ file contents to the index.
+  
 5. Next, run
 ```
 git commit -m "your comment"
 ```
 to record changes to the repository with a comment what was changed.
+
 6. Add your remote repository for the repository at <url>
 ```
 git remote add name_of_your_repository <url>
