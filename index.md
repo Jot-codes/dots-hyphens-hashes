@@ -58,7 +58,7 @@ As you can see, the _index.md_ file provides information about page formatting a
 layout: default
 ---
 ```
-4. Place your content. For example:
+4. Place your content and save the file. For example:
 
 ```
 # Welcome to My Place!
@@ -69,7 +69,6 @@ Praesent volutpat leo cursus lacus tempus, ut sagittis nisi ullamcorper. Cras el
 ## What Is this Site About?
 Aenean in odio turpis. Fusce auctor sapien arcu, id consequat tortor malesuada nec. Mauris finibus urna eu neque sagittis consectetur. Aliquam iaculis accumsan semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed rhoncus commodo lorem, id elementum sem ullamcorper eget. Praesent magna massa, tincidunt id ante quis, tincidunt sagittis velit.
 ```
-5. Save the file.
 
 ### Uploading Your Page to Your Repository on GitHub
 Copy the changes made locally to remote repository.
