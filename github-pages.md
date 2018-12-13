@@ -95,5 +95,15 @@ for example:
  ```
  git push -u cayman master
 ```
-Your page contains 
+Your page is updated.
+## Viewieng Your Page
+1. On Git Hub page, go to your repository.
+1. Select _Settings_ tab.
+1. In GitHub Pages section, select _master_ _branch_ for Source and save changes.
+  You get the following information:
+  ```
+  Your site is ready to be published at <url_to_your_page>.
+  ```
+1. Click the URL and enjoy your first page on GitHub Pages.
+
 [back](./)
