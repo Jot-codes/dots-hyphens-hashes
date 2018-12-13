@@ -71,6 +71,7 @@ Praesent volutpat leo cursus lacus tempus, ut sagittis nisi ullamcorper. Cras el
 Aenean in odio turpis. Fusce auctor sapien arcu, id consequat tortor malesuada nec. Mauris finibus urna eu neque sagittis consectetur. Aliquam iaculis accumsan semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed rhoncus commodo lorem, id elementum sem ullamcorper eget. Praesent magna massa, tincidunt id ante quis, tincidunt sagittis velit.
 ```
 ***
+
 5. Save the file.
 
 ### Uploading Your Page to Your Repository on GitHub
@@ -109,6 +110,7 @@ for example:
  git push -u cayman master
 ```
 Your page is updated.
+
 ## Viewing Your Page
 1. On Git Hub page, go to your repository.
 2. Select _Settings_ tab.
@@ -121,7 +123,9 @@ Your page is updated.
 INFO: It might take up to 10 minutes before the page is available.
 
 ## Related Links
-*[https://git-scm.com/docs/gittutorial] (https://git-scm.com/docs/gittutorial)
-*[https://pages.github.com/](https://pages.github.com/)
-*[https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+* [https://git-scm.com/docs/gittutorial] (https://git-scm.com/docs/gittutorial)
+
+* [https://pages.github.com/](https://pages.github.com/)
+
+* [https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 [back](./)
