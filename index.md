@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Creating GitHub Pages for Dummies
+# Creating GitHub Pages for the First Time
 
 You would like to have a web page and you want to set it by yourself but you don't know where to start with. This tutorial presents how to create a simple web page based on free templates. You can store and maintain your web page for free on GitHub Pages.
 
@@ -59,6 +59,7 @@ layout: default
 ---
 ```
 4. Place your content. For example:
+
 ```
 # Welcome to My Place!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse orci nulla, pellentesque vel posuere ac, maximus vitae orci. Morbi congue eu felis feugiat sodales. Sed rhoncus rutrum nibh. Proin sagittis nulla a euismod lacinia. Mauris porta rhoncus semper. Donec tortor erat, luctus ut ornare quis, varius nec justo. Sed non porta odio, quis tincidunt ligula. Nullam semper vitae augue et varius. Quisque sapien lorem, tristique eu diam vel, varius dapibus massa.
