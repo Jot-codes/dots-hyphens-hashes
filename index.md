@@ -71,8 +71,7 @@ Praesent volutpat leo cursus lacus tempus, ut sagittis nisi ullamcorper. Cras el
 Aenean in odio turpis. Fusce auctor sapien arcu, id consequat tortor malesuada nec. Mauris finibus urna eu neque sagittis consectetur. Aliquam iaculis accumsan semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed rhoncus commodo lorem, id elementum sem ullamcorper eget. Praesent magna massa, tincidunt id ante quis, tincidunt sagittis velit.
 ```
 ***
-
-5. Save the file.
+5. And save the file.
 
 ### Uploading Your Page to Your Repository on GitHub
 Copy the changes made locally to remote repository.
@@ -112,6 +111,7 @@ for example:
 Your page is updated.
 
 ## Viewing Your Page
+
 1. On Git Hub page, go to your repository.
 2. Select _Settings_ tab.
 3. In GitHub Pages section, select _master branch_ for Source and save changes.
