@@ -30,13 +30,13 @@ Just choose the design you like. You don't have to do anything more, yet ;)
 1. Click _Clone_ _or_ _Download_ button and copy a URL.
 1. Open GitBash in the directory, where you want to keep the Template.
 1. Run
-```
-git clone URL_to_your_template
-```
+  ```
+  git clone URL_to_your_template
+  ```
 for example:
-```
-git clone https://github.com/pages-themes/cayman.git
-```
+   ```
+  git clone https://github.com/pages-themes/cayman.git
+  ```
 Your template is available for your needs locally.
 1. Do not close the GitBash window.
 
