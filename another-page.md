@@ -26,13 +26,15 @@ An _Import from PDF_ dialog opens.
 1. Import the pdf.
 1. On the left hand side, select a foreground color, you want to use.
 1. On the right hand side, right-click on the _Layers_ area.
-![Steps3](https://github.com/Justyna1Adam/dots-hyphens-hashes/blob/master/images/screenshot11.png?raw=true)
+![Steps3](https://github.com/Justyna1Adam/dots-hyphens-hashes/blob/master/images/screenshot22.png?raw=true)
 1. Select _New Layer..._ <br/>
 A _New Layer_ dialog opens.
 1. Set _Foreground color_ for the _Fill with_ field. <br/>
 The whole doc is covered with the created layer.
-1. Highlight the Layer and change the Mode of the layer to _Lighten only_. <br/>
+[Almost done](https://github.com/Justyna1Adam/dots-hyphens-hashes/blob/master/images/screenshot4.png?raw=true)
+1. Highlight the newly created Layer and change the Mode of the layer to _Lighten only_. <br/>
 The font's color is changed.
+![Final](https://github.com/Justyna1Adam/dots-hyphens-hashes/blob/master/images/screenshot5.png?raw=true)
 
 ### Printing the pdf
 
