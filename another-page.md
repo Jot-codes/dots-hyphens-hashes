@@ -31,7 +31,7 @@ An _Import from PDF_ dialog opens.
 A _New Layer_ dialog opens.
 1. Set _Foreground color_ for the _Fill with_ field. <br/>
 The whole doc is covered with the created layer.
-[Almost_done](https://github.com/Justyna1Adam/dots-hyphens-hashes/blob/master/images/screenshot4.png?raw=true)
+![Almost_done](https://github.com/Justyna1Adam/dots-hyphens-hashes/blob/master/images/screenshot4.png?raw=true)
 1. Highlight the newly created Layer and change the Mode of the layer to _Lighten only_. <br/>
 The font's color is changed.
 ![Final](https://github.com/Justyna1Adam/dots-hyphens-hashes/blob/master/images/screenshot5.png?raw=true)
