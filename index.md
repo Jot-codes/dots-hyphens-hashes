@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Creating GitHub Pages for the First Time
-
+ 
 You would like to have a web page and you want to set it by yourself but you don't know where to start with. This tutorial presents how to create a simple web page based on free templates. You can store and maintain your web page for free on GitHub Pages.
 
 ## Prerequisites
