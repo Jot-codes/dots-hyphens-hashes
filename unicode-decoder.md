@@ -1,6 +1,9 @@
 ---
 layout: default
+
 ---
+
+
 
 # Coding and Decoding Unicode Characters in Python
 You can code and decode Unicode characters by using a simple script in Python.
