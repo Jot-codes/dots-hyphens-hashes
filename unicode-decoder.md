@@ -11,7 +11,7 @@ You need to prepare Python environment on your machine or you can use online int
 ## Coding Unicode Characters
 Provide a string, which you want to code to Unicode in sentenceUtf.
 ```
-sentenceUtf = 'Text to convert'
+sentenceUtf = 'Text to convert' 
 a = ""
 for _c in sentenceUtf: a = a+ ('U+%04x' % ord(_c))
 print (a)
