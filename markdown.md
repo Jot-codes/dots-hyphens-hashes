@@ -44,3 +44,7 @@ You are fully awaken, standing on your bed, your heart would jump out of the che
 1. Go back to the bed.
 It's 3:55 AM.
 1. Fall a sleep.
+
+## Related Links
+* Responsibilities as a cat owner - https://www.timeforpawsblog.co.uk/resources/your-responsibilities-as-a-cat-owner/
+* Adopt, don't shop - https://www.dancingpawspetcare.com/adopt-dont-shop/
