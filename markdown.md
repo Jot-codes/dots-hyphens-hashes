@@ -3,16 +3,16 @@ Cats are cute and you can spend hours on watching movies with funny cats on the 
 
 ## Before Getting a Cat
 Before you take a cat to your home, make sure that you have the following items:
-*litter box
-*two bowls
-*couple of cat's toys
+* litter box
+* two bowls
+* couple of cat's toys
 
 ## Sleeping in a House with a Cat
 ### Prerequisites
 Before going to bed, hide all the:
-*paper bags
-*suitcases
-*cardboard boxes
+* paper bags
+* suitcases
+* cardboard boxes
 in a separate room and close the door to this room.
 
 ### Sleeping
@@ -37,3 +37,10 @@ The cat goes away.
 1. Do not wake up. It is your cat scratching your coach.
 1. Fall asleep.
 1. Hear loud noise like something was collapsing.
+You are fully awaken, standing on your bed, your heart would jump out of the chest. It is just your cat throwing family pictures from a cupboard.
+1. Take a deep breath.
+1. Go to the kitchen.
+1. Feed the cat.
+1. Go back to the bed.
+It's 3:55 AM.
+1. Fall a sleep.
