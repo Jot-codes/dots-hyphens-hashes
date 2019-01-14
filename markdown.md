@@ -46,5 +46,5 @@ It's 3:55 AM.
 1. Fall a sleep.
 
 ## Related Links
-* Responsibilities as a cat owner - https://www.timeforpawsblog.co.uk/resources/your-responsibilities-as-a-cat-owner/
-* Adopt, don't shop - https://www.dancingpawspetcare.com/adopt-dont-shop/
+* Responsibilities as a cat owner - (https://www.timeforpawsblog.co.uk/resources/your-responsibilities-as-a-cat-owner/)
+* Adopt, don't shop - (https://www.dancingpawspetcare.com/adopt-dont-shop/)
