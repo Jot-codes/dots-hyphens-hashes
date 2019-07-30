@@ -13,6 +13,7 @@ Before going to bed, hide all the:
 * paper bags
 * suitcases
 * cardboard boxes
+
 in a separate room and close the door to this room.
 
 ### Sleeping
