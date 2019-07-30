@@ -9,12 +9,12 @@ Before you take a cat to your home, make sure that you have the following items:
 
 ## Sleeping in a House with a Cat
 ### Prerequisites
-Before going to bed, hide all the:
+Before going to bed, hide all the following stuff in a separate room and close the door to this room:
 * paper bags
 * suitcases
 * cardboard boxes
 
-in a separate room and close the door to this room.
+
 
 ### Sleeping
 1. Go to bed and fall asleep.
